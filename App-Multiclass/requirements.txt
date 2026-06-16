@@ -1,0 +1,10 @@
+flask
+torch
+torchvision
+transformers
+Pillow
+scikit-learn
+pymongo
+bcrypt
+matplotlib
+lime
